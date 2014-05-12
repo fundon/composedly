@@ -1,4 +1,4 @@
-# composedly
+# composedly [![Build Status](https://travis-ci.org/fundon/composedly.svg)](https://travis-ci.org/fundon/composedly)
 
 Create compositions of middleware and named it.
 > Note: When you create compositions of middleware using [koa-compose](https://github.com/koajs/compose)   
