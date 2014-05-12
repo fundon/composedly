@@ -2,7 +2,7 @@
 
 Create compositions of middleware and named it.
 > Note: When you create compositions of middleware using [koa-compose](https://github.com/koajs/compose)   
-or [composition](https://github.com/cojs/composition), it just returns an anonymous `GeneratorFunction`.
+or [composition](https://github.com/cojs/composition), it just returns an anonymous `GeneratorFunction`.    
 And if you want to enable `DEBUG` model in Koa, nothing is displayed.
 
 
