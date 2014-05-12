@@ -26,6 +26,14 @@ co(function* () {
 ```
 
 
+### API
+
+#### composedly(name, fn...)
+
+* name - String
+* fn   - GeneratorFunction
+
+
 ### Dependencies
 
 * [composition](https://github.com/cojs/composition) - Create compositions of middleware.
