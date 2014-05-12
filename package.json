@@ -1,0 +1,28 @@
+{
+  "name": "composedly",
+  "version": "1.0.0",
+  "description": "Named composed middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fundon/composedly.git"
+  },
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fundon/composedly/issues"
+  },
+  "homepage": "https://github.com/fundon/composedly",
+  "dependencies": {
+    "composition": "^1.0.0",
+    "function-name": "0.0.3"
+  },
+  "devDependencies": {
+    "co": "^3.0.6",
+    "mocha": "^1.18.2",
+    "should": "^3.3.1"
+  }
+}
