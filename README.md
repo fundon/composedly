@@ -19,6 +19,7 @@ function* foo() {
 }
 
 var fn = compose('composedly', bar, foo);
+// Now, `fn.name` is 'composedly'
 
 co(function* () {
   yield* fn.call(true);
