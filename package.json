@@ -1,6 +1,6 @@
 {
   "name": "composedly",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Named composed middleware",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,14 @@
     "url": "git://github.com/fundon/composedly.git"
   },
   "author": "Fangdun Cai <cfddream@gmail.com>",
+  "keywords": [
+    "co",
+    "compose",
+    "composedly",
+    "composition",
+    "middleware",
+    "koa"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fundon/composedly/issues"
